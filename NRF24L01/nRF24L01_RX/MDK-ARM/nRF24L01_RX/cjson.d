@@ -1,0 +1,10 @@
+nrf24l01_rx\cjson.o: ..\Core\Src\cJSON.c
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+nrf24l01_rx\cjson.o: ../Core/Inc/cJSON.h
+nrf24l01_rx\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

@@ -1,0 +1,11 @@
+nrf24l01_tx1\cjson_utils.o: ..\Core\Src\cJSON_Utils.c
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+nrf24l01_tx1\cjson_utils.o: ../Core/Inc/cJSON_Utils.h
+nrf24l01_tx1\cjson_utils.o: ../Core/Inc/cJSON.h
+nrf24l01_tx1\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

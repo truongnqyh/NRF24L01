@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"nrf24l01_tx\startup_stm32f103xb.o"
+"nrf24l01_tx\nrf24l01.o"
+"nrf24l01_tx\main.o"
+"nrf24l01_tx\stm32f1xx_it.o"
+"nrf24l01_tx\stm32f1xx_hal_msp.o"
+"nrf24l01_tx\stm32f1xx_hal_gpio_ex.o"
+"nrf24l01_tx\stm32f1xx_hal_adc.o"
+"nrf24l01_tx\stm32f1xx_hal_adc_ex.o"
+"nrf24l01_tx\stm32f1xx_hal.o"
+"nrf24l01_tx\stm32f1xx_hal_rcc.o"
+"nrf24l01_tx\stm32f1xx_hal_rcc_ex.o"
+"nrf24l01_tx\stm32f1xx_hal_gpio.o"
+"nrf24l01_tx\stm32f1xx_hal_dma.o"
+"nrf24l01_tx\stm32f1xx_hal_cortex.o"
+"nrf24l01_tx\stm32f1xx_hal_pwr.o"
+"nrf24l01_tx\stm32f1xx_hal_flash.o"
+"nrf24l01_tx\stm32f1xx_hal_flash_ex.o"
+"nrf24l01_tx\stm32f1xx_hal_exti.o"
+"nrf24l01_tx\stm32f1xx_hal_spi.o"
+"nrf24l01_tx\stm32f1xx_hal_tim.o"
+"nrf24l01_tx\stm32f1xx_hal_tim_ex.o"
+"nrf24l01_tx\stm32f1xx_hal_uart.o"
+"nrf24l01_tx\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "nRF24L01_TX\nRF24L01_TX.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "nRF24L01_TX.map" -o nRF24L01_TX\nRF24L01_TX.axf
